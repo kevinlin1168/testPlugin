@@ -1,0 +1,25 @@
+{
+  "name": "com.neux.testPlugin",
+  "version": "0.0.1",
+  "description": "",
+  "cordova": {
+    "id": "com.neux.testPlugin",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinlin1168/testPlugin.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "kevinlin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevinlin1168/testPlugin/issues"
+  },
+  "homepage": "https://github.com/kevinlin1168/testPlugin#readme"
+}
